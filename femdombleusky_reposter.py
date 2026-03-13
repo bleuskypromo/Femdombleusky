@@ -26,8 +26,8 @@ FEEDS = {
         "note": "PROMO FEED (bovenaan)"
     },
     "feed 2": {
-        "link": "",
-        "note": ""
+        "link": "https://bsky.app/profile/did:plc:jaka644beit3x4vmmg6yysw7/feed/aaamy4bckqqm2",
+        "note": "fdom promo"
     },
     "feed 3": {
         "link": "",
