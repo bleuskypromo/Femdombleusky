@@ -682,7 +682,8 @@ def main():
 
     seen: Set[str] = set()
     deduped: List[Dict] = []
-    for c in all_candidates        uri = c.get("uri")
+    for c in all_candidates:
+        uri = c.get("uri")
         if not uri:
             continue
         if uri in seen:
